@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7b44211f2cf197a4ca53f01b1ade319a
+  m_SerializeEntries:
+  - m_GUID: 6aaa7bbe9ff56ff4eb1a0f9ba82277fe
+    m_Address: HeroKnight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cdcda0b1e088fb48af78aabcbd687c1
+    m_Address: EnemyGolem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 28c98aa58fe86d347b4042e937a612e4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6c6ca07d924c3b64c9a72062ba9e8d92, type: 2}
+    - {fileID: 11400000, guid: e5b24af3f9dbb1c419ddf60520f0e3c3, type: 2}
